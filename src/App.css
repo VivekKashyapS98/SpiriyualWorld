@@ -61,6 +61,12 @@
   border-radius: 20px;
 }
 
+.card:hover {
+  box-shadow: 2px 2px 5px #999999;
+  -webkit-transition-delay: 0.03s;
+  transition-delay: 0.028s;
+}
+
 .card-image {
   width: 200px;
   border-radius: 5px;

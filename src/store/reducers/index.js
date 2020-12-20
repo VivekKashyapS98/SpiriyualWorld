@@ -1,4 +1,3 @@
-
 import { combineReducers } from 'redux';
 import storeItems from './storeItems';
 import cart from './cart';
