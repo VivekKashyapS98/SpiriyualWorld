@@ -19,7 +19,7 @@ const ITEMS = {
         },
         {
             id: 2,
-            name: "Bhagavad-Gita As It Is Original",
+            name: "Srimad Bhagavatam Original Edition",
             author: "A.C. Bhaktivedanta Swami Prabhupada",
             info: "Srimad-Bhagavatam begins with the definition of the ultimate source. It is a bona fide commentary on the Vedanta-sutra by the same author, Srila Vyasadeva, and gradually it develops into nine cantos up to the highest state of God realization.",
             image: "https://images-na.ssl-images-amazon.com/images/I/8107kx7HAAL.jpg",
