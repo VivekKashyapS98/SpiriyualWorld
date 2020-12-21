@@ -14,8 +14,16 @@
   pointer-events: none;
 }
 
+.hover-effect {
+  padding: 5px 10px;
+  border-radius: 10px;
+  text-decoration: none;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+}
+
 .hover-effect:hover {
-  filter: invert(.5);
+  background-color: white;
 }
 
 .showcase-cards {
@@ -23,7 +31,6 @@
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-around;
-  align-items: center;
 }
 
 .flex-row-center {
@@ -52,8 +59,8 @@
 
 .card {
   width: 300px;
-  height: 500px;
   margin: 15px;
+  padding: 10px;
   display: flex;
   flex-direction: column;
   justify-content: space-around;
@@ -123,7 +130,7 @@
     font-size: small;
   }
   .card {
-    width: 200px;
+    width: 160px;
     margin: 5px;
   }
   .card-image {
